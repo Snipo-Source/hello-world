@@ -1,2 +1,3 @@
 # hello-world
 Learning new Things
+Hello i would like to stay as non known as i could for now i am a new person in programming and ready to discover the world of programming.1st i would like to start learning python good and master it so i could later on learn maybe C#.But i am open to suggestions as well since i dont have any knowledge in programming i am a really new person to this i would like to hear others suggestions on what should i learn 1st and with what should i start on doing programming things.This is pertty much all i had to say thanks for everyone who will help me in the journey and will improve my skills in this world of programming
